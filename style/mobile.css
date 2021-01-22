@@ -1,0 +1,61 @@
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
+#navbar ul li:last-child{
+  border-bottom: none;
+}
+
+#showcase .showcase-content{
+  padding-top: 70px;
+}
+
+#home-info .info-img {
+  display: none;
+  height: 550px;
+}
+
+#home-info .info-content {
+  height: 100%;
+  width: 100%;
+  padding: 50px 30px;
+  overflow: hidden;
+  float: none;
+  text-align: center;
+}
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+#about-info .about-left,
+#about-info .about-right {
+  float : none;
+  width: 100%;
+}
+
+#about-info .about-left{
+  text-align: center;
+}
+
+#contact-info .box{
+  border-bottom: 1px solid #ddd;
+}
+
+#contact-info .box:last-child{
+  border-bottom: none;
+}
+
+
